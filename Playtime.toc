@@ -1,9 +1,9 @@
-## Interface: 80100
+## Interface: 120001
 ## Author: Steven Troughton-Smith
 ## Title: Playtime
 ## Notes: Track time played for all characters
-## Version: 2
-## X-Curse-Packaged-Version: 2
+## Version: 5.1
+## X-Curse-Packaged-Version: 5.1
 ## X-Curse-Project-Name: Playtime
 
 ## SavedVariables: PlaytimeDB
